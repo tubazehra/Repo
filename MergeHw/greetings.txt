@@ -9,3 +9,5 @@ Comment allez-vous
 
 chinese
 french
+english
+arabic
